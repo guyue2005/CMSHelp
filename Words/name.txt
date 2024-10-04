@@ -7,3 +7,4 @@ GPTHD => MovieFlix
 NukeHD => MovieFlix
 yiiha => MovieFlix
 SeeWEB => MovieFlix
+Xunlei => MovieFlix
