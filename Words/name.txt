@@ -6,3 +6,4 @@ BATWEB => MovieFlix
 GPTHD => MovieFlix
 NukeHD => MovieFlix
 yiiha => MovieFlix
+SeeWEB => MovieFlix
