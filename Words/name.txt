@@ -8,3 +8,4 @@ NukeHD => MovieFlix
 yiiha => MovieFlix
 SeeWEB => MovieFlix
 Xunlei => MovieFlix
+DDHDTV => MovieFlix
