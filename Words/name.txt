@@ -9,3 +9,4 @@ yiiha => MovieFlix
 SeeWEB => MovieFlix
 Xunlei => MovieFlix
 DDHDTV => MovieFlix
+(?<=\[GM-Team\]\[国漫\]\[.*?\]\[.*?\]\[)202\d => 202\1
