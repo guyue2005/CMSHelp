@@ -10,3 +10,4 @@ SeeWEB => MovieFlix
 Xunlei => MovieFlix
 DDHDTV => MovieFlix
 (?<=\[GM-Team\]\[国漫\]\[.*?\]\[.*?\]\[)202\d => 202\1
+(?<=\[GM-Team\]\[国漫\]\[.*?\]\[.*?\]\[)201\d => 201\1
