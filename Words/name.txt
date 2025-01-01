@@ -1,13 +1,4 @@
 #========以下识别词由 guyue2005 自定义词库========#
 #命名后缀修改
-BlackTV => MovieFlix
-ParkHD => MovieFlix
-BATWEB => MovieFlix
-GPTHD => MovieFlix
-NukeHD => MovieFlix
-yiiha => MovieFlix
-SeeWEB => MovieFlix
-Xunlei => MovieFlix
-DDHDTV => MovieFlix
 (?<=\[GM-Team\]\[国漫\]\[.*?\]\[.*?\]\[)202\d => 202\1
 (?<=\[GM-Team\]\[国漫\]\[.*?\]\[.*?\]\[)201\d => 201\1
