@@ -1,5 +1,19 @@
 # Cloud Media Sync 更新说明
 > Docker 地址:[`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)  帮助[`Wiki`](https://github.com/guyue2005/CMSHelp/wiki)
+## 简介
+cloud-media-sync（CMS）--- 云端媒体库同步工具
+
+> 监控`115`文件夹，生成`emby`可以识别的`strm`文件，支持增量，支持`emby302`。
+
+> 本项目基于 [`python-115`](https://github.com/ChenyangGao/web-mount-packs)，懂代码的可以看看，非常强大。
+
+> 致谢：`尽贫·禁评` `DDSRem`
+
+> 致谢：`Black_Plum` `HuLuXi` 提供相关的教程
+
+> [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
+
+
 ## cloud-media-sync-0.3.1 更新日志
 1. 增加emby入库通知（PRO），emby通知设为 http://172.17.0.1:9527/api/emby/webhook?token=cloud_media_sync
 2. strm生成时自动通知emby进行扫库
