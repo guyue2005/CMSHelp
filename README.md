@@ -1,5 +1,5 @@
-Cloud Media Sync 更新说明
-> Docker 地址:[`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)
+# Cloud Media Sync 更新说明
+> Docker 地址:[`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)  帮助[`wiki`](https://github.com/guyue2005/CMSHelp/wiki)
 ## cloud-media-sync-0.3.1 更新日志
 1. 增加emby入库通知（PRO），emby通知设为 http://172.17.0.1:9527/api/emby/webhook?token=cloud_media_sync
 2. strm生成时自动通知emby进行扫库
