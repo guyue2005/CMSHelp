@@ -14,6 +14,12 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
 
 > [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## cloud-media-sync-0.3.1.2 更新日志
+1. strm生成时自动通知emby进行扫库，支持高级配置
+2. 增加cms同步结果通知
+3. 修复剧集1-10集存在时，重复入库的问题
+4. 修复热门推荐剧集搜索年份不生效的问题
+5. EMBY_HOST_PORT、EMBY_API_KEY改为必填
 
 ## cloud-media-sync-0.3.1 更新日志
 1. 增加emby入库通知（PRO），emby通知设为 http://172.17.0.1:9527/api/emby/webhook?token=cloud_media_sync
