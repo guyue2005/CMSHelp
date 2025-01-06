@@ -10,7 +10,7 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
 
 > 致谢：`尽贫·禁评` `DDSRem`
 
-> 致谢：`Black_Plum` `HuLuXi` 提供相关的教程
+> 致谢：`Black_Plum` `HuLuXi` 提供相关容器安装环境教程
 
 > [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
