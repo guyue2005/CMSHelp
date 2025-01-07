@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/2fa36cdc-398b-4d0c-bdef-6001ad20d189)
 
 
-## [[English]](README.en.md)
+## [中文][[English]](README.en.md)
 
 ## Cloud Media Sync 更新说明
 > [!IMPORTANT]
