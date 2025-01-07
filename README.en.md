@@ -1,4 +1,10 @@
-# Cloud Media Sync Update Notes
+# Cloud Media Sync
+
+![image](https://github.com/user-attachments/assets/2fa36cdc-398b-4d0c-bdef-6001ad20d189)
+
+## [English][[中文]](README.md)
+
+## Cloud Media Sync Update Notes
 > [!IMPORTANT]  
 > Docker Image: [`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)  
 > Help and Documentation: [`Wiki`](https://github.com/guyue2005/CMSHelp/wiki)
