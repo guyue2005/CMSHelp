@@ -1,4 +1,11 @@
-# Cloud Media Sync 更新说明
+# Cloud Media Sync
+
+![image](https://github.com/user-attachments/assets/2fa36cdc-398b-4d0c-bdef-6001ad20d189)
+
+
+## [[English]](README.en.md)
+
+## Cloud Media Sync 更新说明
 > [!IMPORTANT]
 > Docker 地址:[`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)  帮助 说明查看 [`Wiki`](https://github.com/guyue2005/CMSHelp/wiki)
 ## 简介
