@@ -1,9 +1,12 @@
 # Cloud Media Sync
-
-![image](https://github.com/user-attachments/assets/2fa36cdc-398b-4d0c-bdef-6001ad20d189)
+<div align="center">
+   
+![](https://github.com/user-attachments/assets/e137ba0b-43b4-477b-bae8-27b7cbf91cff)
 
 ## [English][[中文]](README.md)
 
+</div>
+  
 ## Cloud Media Sync Update Notes
 > [!IMPORTANT]  
 > Docker Image: [`cloud-media-sync`](https://hub.docker.com/r/imaliang/cloud-media-sync)  
