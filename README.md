@@ -1,9 +1,12 @@
 # Cloud Media Sync
-
-![image](https://github.com/user-attachments/assets/2fa36cdc-398b-4d0c-bdef-6001ad20d189)
+<div align="center">
+   
+![](https://github.com/user-attachments/assets/e137ba0b-43b4-477b-bae8-27b7cbf91cff)
 
 
 ## [中文][[English]](README.en.md)
+
+</div>
 
 ## Cloud Media Sync 更新说明
 > [!IMPORTANT]
