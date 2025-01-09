@@ -25,6 +25,15 @@
 
 > [**TG Feedback Group**](https://t.me/+v08KwCO7jH0xNjZl)
 
+
+## cloud-media-sync-0.3.2 Update Log
+1. Added synchronization record management
+2. Optimized Emby library notification, supporting play and pause notifications
+3. Fixed issue where single episode library notifications failed for some series
+4. Fixed issue where folder creation failed when automatic folder organization was enabled
+5. Made compatible with Aliyun Pan accounts without a nickname for login
+
+
 ## cloud-media-sync-0.3.1.2 Update Log
 1. Automatically notify Emby to scan the library when generating strm files, supporting advanced configuration.
 2. Added CMS synchronization result notifications.
