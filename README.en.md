@@ -26,6 +26,15 @@
 > [**TG Feedback Group**](https://t.me/+v08KwCO7jH0xNjZl)
 
 
+## cloud-media-sync-0.3.3.1 【PRO required to start this version】 Changelog
+1. Added fast sync mode, syncing 10,000 STRM files in just 10 seconds.
+2. Added custom image download threads.
+3. Added automatic CK refresh toggle.
+4. Supports folder upload event synchronization.
+5. Changed media library refresh method, seems faster now.
+6. Optimized code to improve stability.
+7. Temporarily disabled the free version.
+
 ## cloud-media-sync-0.3.2 Update Log
 1. Added synchronization record management
 2. Optimized Emby library notification, supporting play and pause notifications
