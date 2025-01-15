@@ -26,7 +26,7 @@
 > [**TG Feedback Group**](https://t.me/+v08KwCO7jH0xNjZl)
 
 
-## cloud-media-sync-0.3.3.1 【PRO required to start this version】 Changelog
+## cloud-media-sync-0.3.3.1 【PRO required to start this version】 Update Log
 1. Added fast sync mode, syncing 10,000 STRM files in just 10 seconds.
 2. Added custom image download threads.
 3. Added automatic CK refresh toggle.
