@@ -22,7 +22,10 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
 
 > 致谢：`Black_Plum` `HuLuXi` 提供相关容器安装环境教程
 
-> [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
+> [!Tip]
+> 不要相信任何的咸鱼卖CMS，或者部署CMS的，本程序没有授权给任何人销售。
+ 
+> CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
 ## cloud-media-sync-0.3.3.1 【此版本启动需要PRO】更新日志
 1. 增加快速同步模式，10000个STRM只需要10秒
