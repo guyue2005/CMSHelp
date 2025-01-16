@@ -27,7 +27,7 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
-## cloud-media-sync-0.3.3.1 【此版本启动需要PRO】更新日志
+## cloud-media-sync-0.3.3.4 【此版本启动需要PRO】更新日志
 1. 增加快速同步模式，10000个STRM只需要10秒
 2. 增加自定义图片下载线程
 3. 增加自动刷新CK开关
