@@ -26,6 +26,10 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
 > 不要相信任何的咸鱼卖CMS，或者部署CMS的，本程序没有授权给任何人销售。
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
+> 
+## cloud-media-sync-0.3.3.8 更新日志
+1. 增加阿里秒传115文件夹cid配置
+2. 优化代码，增加稳定性
 
 ## cloud-media-sync-0.3.3.7 更新日志
 1. 手动转存不再判断链接是否存在
