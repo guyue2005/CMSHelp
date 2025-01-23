@@ -27,6 +27,10 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## cloud-media-sync-0.3.3.10 更新日志
+1. 增加 IS_HK_VPS 环境变量，用于指定是否为香港VPS, IS_HK_VPS=1 为香港VPS（不是不需要加）
+2. 优化代码，增加稳定性
+   
 ## cloud-media-sync-0.3.3.9 更新日志
 1. 修改了获取待整理视频逻辑，请将待整理文件夹文件数限制为10000以内（待整理的文件或所在文件夹必须含有电影名称）
 2. 优化代码，增加稳定性
