@@ -27,6 +27,9 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## cloud-media-sync-0.3.3.11 更新日志
+1. 剧集通知增加集数信息（需要在神医助手里打开）
+
 ## cloud-media-sync-0.3.3.10 更新日志
 1. 增加 IS_HK_VPS 环境变量，用于指定是否为香港VPS, IS_HK_VPS=1 为香港VPS（不是不需要加）
 2. 优化代码，增加稳定性
