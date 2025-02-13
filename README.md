@@ -27,6 +27,10 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+##cloud-media-sync-0.3.3.13 更新日志
+1. 修复快速模式图片、元数据不下载的问题
+2. 升级P115，优化代码，增加稳定性
+   
 ## cloud-media-sync-0.3.3.12 更新日志
 1. 分享链接兼容 115cdn.com
 2. 升级P115，优化代码，增加稳定性
