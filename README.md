@@ -27,6 +27,9 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## CMS-0.3.4.5 更新日志
+1. 识别增强
+
 ## cloud-media-sync-0.3.4.4 更新日志
 1. 增强识别
 2. 修复剧集有时无法重命名
