@@ -27,6 +27,11 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## CMS-0.3.4.10 更新日志
+1. 增强识别，修复GPT辅助识别的BUG
+2. 命名规则支持 season_name、season_year、episode_name
+3. 二级分类策略支持文件后缀匹配 ext
+
 ## CMS-0.3.4.9 更新日志
 1. 增强识别
 2. 支持黑名单和大小过滤
