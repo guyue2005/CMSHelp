@@ -27,6 +27,11 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## CMS-0.3.5.3 更新日志
+1. 增加alist同步通知、刷新入库
+2. bot增加alist同步菜单（会同步所有路径）
+3. 优化代码，增加稳定性
+
 ## CMS-0.3.5.2 更新日志
 1. 修复alist同步视频大小过滤会过滤非视频
 2. alist同步增加请求间隔
