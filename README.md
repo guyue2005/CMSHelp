@@ -1,4 +1,4 @@
-![3f867885c4649c0ba808434e16d886b](https://github.com/user-attachments/assets/a42f4735-b433-4311-abf8-2a5711b69d8e)# Cloud Media Sync
+# Cloud Media Sync
 <div align="center">
    
 ![](https://github.com/user-attachments/assets/e137ba0b-43b4-477b-bae8-27b7cbf91cff)
