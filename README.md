@@ -1,4 +1,4 @@
-# Cloud Media Sync
+![3f867885c4649c0ba808434e16d886b](https://github.com/user-attachments/assets/a42f4735-b433-4311-abf8-2a5711b69d8e)# Cloud Media Sync
 <div align="center">
    
 ![](https://github.com/user-attachments/assets/e137ba0b-43b4-477b-bae8-27b7cbf91cff)
@@ -26,6 +26,12 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
 > 不要相信任何的咸鱼卖CMS，或者部署CMS的，本程序没有授权给任何人销售。
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
+
+## CMS-0.3.5.4 更新日志
+1. 增加115分享同步（生成基于分享的strm）
+2. 302日志增加文件名
+3. 修复alist同步不通知emby刷新
+注意：使用115分享直连播放时会自动保存一份到我的接收，所以请确保待整理文件夹不是我的接收
 
 ## CMS-0.3.5.3 更新日志
 1. 增加alist同步通知、刷新入库
