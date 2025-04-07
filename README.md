@@ -27,6 +27,11 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## CMS-0.3.5.11 更新日志
+1. 增加网络测试
+2. 分享直连由 /d/s/ 修改为 /s/ （可以使用strm替换插件对已生成的分享直连进行修改）
+3. cms通知（mp插件）增加自动整理选项
+
 ## CMS-0.3.5.10 更新日志
 1. 支持mp联动cms进行增量同步，用于使用mp整理上传本地资源到115的场景（需要mp增加插件地址 https://github.com/imaliang/MoviePilot-Plugins ）
 2. tmdb配置支持多语言
