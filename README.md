@@ -27,6 +27,11 @@ cloud-media-sync（CMS）--- 云端媒体库同步工具
  
 > CMS 唯一TG的群 [**TG反馈群⁠**](https://t.me/+v08KwCO7jH0xNjZl)
 
+## CMS-0.3.5.10 更新日志
+1. 支持mp联动cms进行增量同步，用于使用mp整理上传本地资源到115的场景（需要mp增加插件地址 https://github.com/imaliang/MoviePilot-Plugins ）
+2. tmdb配置支持多语言
+3. 修复alist同步定时任务
+
 ## CMS-0.3.5.8 更新日志
 1. 115分享同步支持字幕、nfo下载
 2. 支持缓存清除（在右上角用户名那里）
